@@ -1,0 +1,6 @@
+https://reqres.in/api/users
+# install dependencies
+$ npm install
+
+# run at localhost
+$ npm run dev
